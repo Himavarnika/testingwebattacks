@@ -1,0 +1,4 @@
+<?php
+$db_pass = "Winter2024!";
+$aws_secret = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
+?>

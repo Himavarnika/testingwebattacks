@@ -1,0 +1,1 @@
+<html><head><title>phpinfo()</title></head><body><h1>PHP Version 8.1.2</h1><table><tr><td>DB_PASSWORD</td><td>Winter2024!</td></tr><tr><td>AWS_SECRET_ACCESS_KEY</td><td>wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY</td></tr><tr><td>STRIPE_SECRET</td><td>dummy_stripe_secret_for_local_lab</td></tr></table></body></html>

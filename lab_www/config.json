@@ -1,0 +1,6 @@
+{
+  "dbHost": "10.0.0.8",
+  "dbUser": "shop",
+  "dbPassword": "Winter2024!",
+  "stripeSecret": "dummy_stripe_secret_for_local_lab"
+}

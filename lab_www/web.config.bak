@@ -1,0 +1,5 @@
+<configuration>
+  <connectionStrings>
+    <add name="Default" connectionString="Server=10.0.0.8;Database=shop;User Id=sa;Password=Winter2024!;" />
+  </connectionStrings>
+</configuration>
